@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:08.821605
+#+DATE: 2015-08-30 20:21:09.490197
 #+TITLE: 佛說貧窮老公經
 #+PROPERTY: CBETA_ID T17n0797b
 #+PROPERTY: ID KR6i0503
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 797b
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0503_T_000-0743b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0503_T_001-0743b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-
- 《佛說貧窮老公經》¶
+《佛說貧窮老公經》¶
 ¶
 宋沙門釋慧簡譯¶
 
@@ -94,8 +93,7 @@
 之耶？』賊見太子，皆叩頭首過謝罪，放沙門¶
 去。
 
-「時沙門者，今彌勒菩薩是；憍貴太子¶
-者，今卿是也。故卿今日受此貧窮之罪，坐¶
+「時沙門者，今彌勒菩薩是；憍貴太子者，今卿是也。故卿今日受此貧窮之罪，坐¶
 慳貪也；所以得長壽者，救活沙門之命也。¶
 罪福報應，亦如影響。」
 
